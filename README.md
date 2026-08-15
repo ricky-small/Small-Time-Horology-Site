@@ -1,3 +1,3 @@
-# Small Time Horology Website v2.5
+# Small Time Horology Website v2.6
 
-Hero typography, controls, navigation and STH emblem now scale with large desktop viewports instead of stopping at small fixed pixel caps.
+Desktop hero CSS rebuilt cleanly from scratch. The two-column left/right composition is now preserved on screens wider than 900px, with mobile layout isolated to the proper media query.
