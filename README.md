@@ -1,3 +1,3 @@
-# Small Time Horology Website v2.7
+# Small Time Horology Website v2.8
 
-Preserves the committed v2.6 hero and adds a premium Features + app showcase below the fold.
+Uses a sample-watch collection preview instead of the owner's real collection and adds Favorites to the product showcase as the next planned app feature.
