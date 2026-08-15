@@ -1,3 +1,3 @@
-# Small Time Horology Website v2.1
+# Small Time Horology Website v2.2
 
-Static GitHub Pages site. Hero composition refined for brand balance and responsive display.
+Full-viewport landing hero. Features, About and Release content begin below the initial fold.
