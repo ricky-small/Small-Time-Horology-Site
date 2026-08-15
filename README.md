@@ -1,3 +1,3 @@
-# Small Time Horology Website v2.4
+# Small Time Horology Website v2.5
 
-Fullscreen hero expanded to the full viewport width with left/right anchored composition. Center divider/glow removed. SCROLL cue retained.
+Hero typography, controls, navigation and STH emblem now scale with large desktop viewports instead of stopping at small fixed pixel caps.
