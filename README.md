@@ -1,3 +1,3 @@
-# Small Time Horology Website v2.2
+# Small Time Horology Website v2.3
 
-Full-viewport landing hero. Features, About and Release content begin below the initial fold.
+Fullscreen hero retained. Vertical center gold divider removed. Scroll cue kept with a simple downward arrow.
