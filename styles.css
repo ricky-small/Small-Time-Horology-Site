@@ -509,3 +509,32 @@ footer{
 .feature-highlight strong{
   color:var(--gold);
 }
+
+
+/* v2.9 — larger, cleaner collection showcase */
+.feature-lead{
+  grid-template-columns:minmax(300px,.48fr) minmax(0,1.52fr);
+  gap:clamp(42px,4.5vw,76px);
+  align-items:center;
+  padding:clamp(38px,3.4vw,56px);
+}
+.feature-copy{min-width:0}
+.feature-copy h2{font-size:clamp(42px,3.6vw,64px)}
+.app-showcase-image{
+  min-width:0;
+  width:100%;
+  overflow:hidden;
+  border-radius:15px;
+  border:1px solid rgba(212,175,55,.24);
+  background:#0a0d13;
+  box-shadow:0 28px 80px rgba(0,0,0,.52);
+}
+.app-showcase-image img{
+  display:block;
+  width:100%;
+  height:auto;
+}
+@media(max-width:900px){
+  .feature-lead{grid-template-columns:1fr}
+  .app-showcase-image{margin-top:8px}
+}
