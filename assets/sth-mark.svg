@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="110" fill="#0f1117"/><circle cx="256" cy="256" r="185" fill="#121b2a" stroke="#d4af37" stroke-width="8"/><circle cx="256" cy="256" r="153" fill="none" stroke="#d4af37" stroke-opacity=".68" stroke-width="3"/><text x="256" y="282" text-anchor="middle" fill="#d4af37" font-family="Georgia,serif" font-size="106" letter-spacing="5">STH</text><text x="256" y="330" text-anchor="middle" fill="#d4af37" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">EST. 2026</text><path d="M256 98l-11 19h22zM256 405l12 12-12 12-12-12z" fill="#d4af37"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="110" fill="#0f1117"/>
+<circle cx="256" cy="256" r="185" fill="#121b2a" stroke="#d4af37" stroke-width="8"/>
+<circle cx="256" cy="256" r="153" fill="none" stroke="#d4af37" stroke-opacity=".68" stroke-width="3"/>
+<g stroke="#d4af37" stroke-width="3" stroke-linecap="round">
+<path d="M256 82v22M430 256h-22M256 430v-22M82 256h22"/>
+<path d="M378 134l-14 14M378 378l-14-14M134 378l14-14M134 134l14 14"/>
+</g>
+<path d="M256 98l-11 19h22zM256 405l12 12-12 12-12-12z" fill="#d4af37"/>
+<text x="256" y="282" text-anchor="middle" fill="#d4af37" font-family="Georgia,serif" font-size="106" letter-spacing="5">STH</text>
+<text x="256" y="330" text-anchor="middle" fill="#d4af37" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">EST. 2026</text>
+</svg>
