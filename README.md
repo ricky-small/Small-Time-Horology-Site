@@ -1,3 +1,3 @@
-# Small Time Horology Website v2.3
+# Small Time Horology Website v2.4
 
-Fullscreen hero retained. Vertical center gold divider removed. Scroll cue kept with a simple downward arrow.
+Fullscreen hero expanded to the full viewport width with left/right anchored composition. Center divider/glow removed. SCROLL cue retained.
